@@ -27,7 +27,7 @@ Pull requestler cabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Licence
 
-[MIT]()
+[MIT](https://github.com/aysegulHalamoglu/kodluyoruzilkrepo/blob/main/LICENSE)
 
 
 
