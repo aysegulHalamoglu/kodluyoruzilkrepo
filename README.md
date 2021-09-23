@@ -1,42 +1,24 @@
-# Kodluyoruz Ilk Repo
+# Kodluyoruz First Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası bir adet Lisans dosyası bir adet de index.html dosyası barındırıyor. 
+This repo is my first repo in the  [Kodluyoruz](https://www.kodluyoruz.org/) Git Training. 
 
-## Installation 
 
-Öncelikle projeyi klonlayın. 
 
-```
-git clone https://github.com/aysegulHalamoglu/kodluyoruzilkrepo.git
-```
 
-## Usage
 
-Projeyi klonladıktan sonra Visual Studio Code programından açınız. 
+# Ödev 1 : Clock
 
-Linux için:
+#### Click demo to try it by yourself! :arrow_forward:  [Link](https://clever-kilby-b49628.netlify.app)
+<img src="assets/img/odev1.PNG" width="700"/> 
+## Topics
 
-```
-cd kodluyoruzilkrepo 
-code.
-```
+- index.html
+- clock.js
+- README.md
+- MIT Licence
 
-## Contributing 
-
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## Licence
 
 [MIT](https://github.com/aysegulHalamoglu/kodluyoruzilkrepo/blob/main/LICENSE)
-
-
-
-------
-
-![Project Picture](https://www.nanogune.eu/sites/default/files/project.png)
-
-------
-
-
-
 
