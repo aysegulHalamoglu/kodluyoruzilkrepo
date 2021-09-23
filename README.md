@@ -10,6 +10,7 @@ This repo is my first repo in the  [Kodluyoruz](https://www.kodluyoruz.org/) Git
 
 #### Click demo to try it by yourself! :arrow_forward:  [Link](https://clever-kilby-b49628.netlify.app)
 <img src="assets/img/odev1.PNG" width="700"/> 
+
 ## Topics
 
 - index.html
