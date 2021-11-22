@@ -4,7 +4,7 @@ This repo is my first repo in the [Kodluyoruz](https://www.kodluyoruz.org/) Fron
 
 # Ödev 1 : My First Web Page
 
-<img src="/assets/img/htmlOdev1.PNG" width="700"/>
+<img src="https://user-images.githubusercontent.com/81239760/142938173-805792d5-9e7f-42e1-abb1-f5f88fe04196.png" width="700"/>
 
 ## Topics
 
