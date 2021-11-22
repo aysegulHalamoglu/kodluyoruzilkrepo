@@ -2,13 +2,15 @@
 
 This repo is my first repo in the [Kodluyoruz](https://www.kodluyoruz.org/) Frontend-101 Training.
 
-You can find related homework inside "ödevler" folder.
+# Ödev 1 : My First Web Page
+
+<img src="/assets/img/htmlOdev1.PNG" width="700"/>
 
 ## Topics
 
-- HTML
-- CSS
-- JavaScript
+- index.html
+- README.md
+- MIT Licence
 
 ## Licence
 

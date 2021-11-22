@@ -2,13 +2,18 @@
 
 This repo is my first repo in the [Kodluyoruz](https://www.kodluyoruz.org/) Frontend-101 Training.
 
-You can find related homework inside "ödevler" folder.
+# Ödev 1 : Clock
+
+#### Click demo to try it by yourself! :arrow_forward: [Link](https://clever-kilby-b49628.netlify.app)
+
+<img src="/assets/img/odev1.PNG" width="700"/>
 
 ## Topics
 
-- HTML
-- CSS
-- JavaScript
+- index.html
+- clock.js
+- README.md
+- MIT Licence
 
 ## Licence
 
