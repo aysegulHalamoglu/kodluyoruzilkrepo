@@ -87,7 +87,7 @@ Ex: x is root. y takes part in the right of the root and z takes part in the lef
 
 - 7 is root. 
 - 5 takes part in left and 1 takes part in left of 5
-- 8 takes part in right and 1 takes part in left of 5
+- 8 takes part in right and 9 takes part in right of 8
 ...
 
 ```
