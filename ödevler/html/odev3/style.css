@@ -1,0 +1,56 @@
+body {
+  padding-top: 0;
+  margin: 4rem 5rem;
+  background-color: plum;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  border: 1px solid purple;
+  padding: 0.5rem;
+}
+nav a {
+  text-decoration: none;
+  color: purple;
+  font-size: 1.23rem;
+  font-weight: 600;
+}
+
+hr {
+  border: 1px solid purple;
+  opacity: 0.2;
+}
+#logo a {
+  display: flex;
+}
+#info {
+  display: flex;
+}
+picture {
+  display: flex;
+  justify-content: center;
+}
+header,
+figcaption {
+  text-align: center;
+  padding: 0.7rem;
+}
+
+aside {
+  text-indent: 2rem;
+}
+aside p::first-letter {
+  font-weight: bold;
+  font-size: 2rem;
+}
+#malzemeler li {
+  padding-bottom: 0.5rem;
+}
+#tarif {
+  font-weight: bold;
+}
+#tarif p {
+  font-weight: normal;
+}
